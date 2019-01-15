@@ -1,0 +1,102 @@
+**********1523164275.71**********
+**********1523164282.79**********
+**********1523164289.76**********
+Invalid Json Line on 6908058759
+---Ranked Grid Box---
+C2: 175969posts
+B2: 21477posts
+C3: 17075posts
+B3: 6420posts
+C4: 4234posts
+B1: 3311posts
+C5: 2613posts
+D3: 2316posts
+D4: 1923posts
+C1: 1595posts
+B4: 900posts
+D5: 717posts
+A2: 477posts
+A3: 365posts
+A1: 262posts
+A4: 85posts
+---Ranked Row---
+C-Row: 201486posts
+B-Row: 32108posts
+D-Row: 4956posts
+A-Row: 1189posts
+---Ranked Column---
+Column 2: 197923posts
+Column 3: 26176posts
+Column 4: 7142posts
+Column 1: 5168posts
+Column 5: 3330posts
+---Total Time---
+41.9962279797
+
+
+Invalid Json Line on 6908058759
+---Ranked Grid Box---
+C2: 175969posts
+B2: 21477posts
+C3: 17075posts
+B3: 6420posts
+C4: 4234posts
+B1: 3311posts
+C5: 2613posts
+D3: 2316posts
+D4: 1923posts
+C1: 1595posts
+B4: 900posts
+D5: 717posts
+A2: 477posts
+A3: 365posts
+A1: 262posts
+A4: 85posts
+---Ranked Row---
+C-Row: 201486posts
+B-Row: 32108posts
+D-Row: 4956posts
+A-Row: 1189posts
+---Ranked Column---
+Column 2: 197923posts
+Column 3: 26176posts
+Column 4: 7142posts
+Column 1: 5168posts
+Column 5: 3330posts
+---Total Time---
+43.6703598499
+
+
+Invalid Json Line on 6908058759
+---Ranked Grid Box---
+C2: 175969posts
+B2: 21477posts
+C3: 17075posts
+B3: 6420posts
+C4: 4234posts
+B1: 3311posts
+C5: 2613posts
+D3: 2316posts
+D4: 1923posts
+C1: 1595posts
+B4: 900posts
+D5: 717posts
+A2: 477posts
+A3: 365posts
+A1: 262posts
+A4: 85posts
+---Ranked Row---
+C-Row: 201486posts
+B-Row: 32108posts
+D-Row: 4956posts
+A-Row: 1189posts
+---Ranked Column---
+Column 2: 197923posts
+Column 3: 26176posts
+Column 4: 7142posts
+Column 1: 5168posts
+Column 5: 3330posts
+---Total Time---
+199.25012517
+
+
